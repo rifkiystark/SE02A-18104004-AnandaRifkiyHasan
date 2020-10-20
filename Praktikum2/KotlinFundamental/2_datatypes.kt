@@ -7,3 +7,4 @@ fun main() {
     print("\n")
     print(kataAwal + kataAkhir)
 }
+// Punya kiki

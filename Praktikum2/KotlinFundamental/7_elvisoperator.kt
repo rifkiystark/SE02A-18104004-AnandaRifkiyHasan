@@ -7,3 +7,4 @@ fun main() {
     println(textLength)
     print(score?:89)
 }
+// Punya kiki
