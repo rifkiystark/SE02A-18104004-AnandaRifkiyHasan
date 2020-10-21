@@ -7,3 +7,4 @@ fun setUser(name: String, age: Int) = "Your name is $name, and you $age years ol
 fun printUser(name: String) {
  	println("Your name is $name")
 }
+// Punya kiki
