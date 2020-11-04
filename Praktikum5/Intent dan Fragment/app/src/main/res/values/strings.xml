@@ -2,4 +2,8 @@
     <string name="app_name">Intent dan Fragment</string>
     <string name="hint_input_prodi">Input Prodi</string>
     <string name="btn_prodi">BAWA DATA PRODI</string>
+    <string name="btn_call_browser">Buka Browser</string>
+    <string name="btn_call_camera">Buka Kamera</string>
+    <string name="input_phone_number">Panggilan Telepon</string>
+    <string name="btn_call_phone">Panggil</string>
 </resources>
