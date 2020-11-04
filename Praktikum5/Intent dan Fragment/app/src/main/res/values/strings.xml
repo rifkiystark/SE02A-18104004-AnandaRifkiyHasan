@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent dan Fragment</string>
+    <string name="hint_input_prodi">Input Prodi</string>
+    <string name="btn_prodi">BAWA DATA PRODI</string>
+</resources>
