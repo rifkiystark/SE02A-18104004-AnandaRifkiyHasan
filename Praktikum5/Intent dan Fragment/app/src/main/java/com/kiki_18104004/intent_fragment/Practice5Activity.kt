@@ -54,6 +54,11 @@ class Practice5Activity : AppCompatActivity() {
             intent.data = Uri.parse("tel:$phoneNumber")
             startActivity(intent)
         }
+
+        btnFragment.setOnClickListener{
+            val intent = Intent(this, Practice5ForFragmentActivity::class.java)
+            startActivity(intent)
+        }
     }
 
 
